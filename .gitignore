@@ -1,0 +1,12 @@
+.env
+node_modules/
+.venv/
+.DS_Store
+generated/
+app/generated/
+debs/
+__pycache__/
+*.pyc
+tests/
+.pytest_cache/
+docker-compose.yml
